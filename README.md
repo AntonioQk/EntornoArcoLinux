@@ -1,5 +1,5 @@
 # ArcoLinux
-My entorno actual de desarrollo en la distribucion ArcoLinux.
+Mi entorno actual de desarrollo en la distribucion ArcoLinux.
 
 Archivos de configuracion de:
 - Polybar
