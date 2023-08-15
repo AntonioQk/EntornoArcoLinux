@@ -8,3 +8,4 @@ Archivos de configuracion de:
 - Sxhkd
 
 
+![screenshot4](https://github.com/AntonioQk/MyEntornoArcoLinux/assets/86135476/24bdb2ab-a124-47e7-aaad-2fb226fbc322)
