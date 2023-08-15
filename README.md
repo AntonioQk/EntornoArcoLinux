@@ -4,7 +4,7 @@ My entorno actual de desarrollo en linux, haciendo uso de la distribucion ArcoLi
 Archivos de configuracion de:
 - Polybar
 - Bspwm
-- Zshrc
+- Zsh
 - Sxhkd
 
 
